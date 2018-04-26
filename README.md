@@ -1,10 +1,11 @@
 # Mission Statement
-Our team values the safety, cleanliness and integrity of our environment. We want to encourage fellow Seattleites to join our mission of keeping our city, and ultimately our world, clean.
+Our team values the humanity and integrity of all peoples. We want to connect the organizations that are working for the greater good with volunteers that want to join in the cause to fight against homelessness. 
 
 # Problem Statement
-Humans create tons of trash. That’s no secret. It has practically become accepted in society that garbage can be found littered along the streets and buildings of any city. There is no urgency in the pressing consequences that littered trash is having on the environment. People simply pass the idea off as if it is not their problem. However, waste management is absolutely an issue that needs to be shared more with current day society. 
+Homelessness is a serious issue all across America. In a recent study, it was found that over half a million people are considered homeless in the United States. There are over 11,000 people that are homeless in Seattle alone, 47.1% of which are suffering without shelter. We know that there are several organizations in our city that are working towards ending homelessness once and for all, but the issue will not disappear overnight. No matter how noble their mission may be, they still need help.
 
-In a 2017 government study, it was found that Northwest Washington accumulated over 2.5 million pounds of litter and illegally dumped materials. Just in the King County area, almost 300 illegal dump sites were recorded. Our cities have been making efforts to help the environment, but the issues have still been pertinent to the cleanliness and health of our world. Our current waste management solutions are often not sufficient enough to make a lasting change in the trash that is littered all over the world. Although there may be individual sentiment to making an impact on this issue, the truth is that this needs to be a cultural change so that everyone and anyone can join in on fighting against the growing concern of waste management. 
+Homeless shelters can range from all sorts of mission statements. Whether they want to offer a space for the homeless to come and eat volunteer-cooked food or they provide clothing to prepare for harsher conditions, these organizations could always use help with donations. Organizations often receive charitable gifts, but there is a disconnect between the way that society can reach out to these groups. The information about what these organizations are gathering is located all over the place so it can be difficult for a person to find where they can donate these goods. The lack of donated items does not stem from the scarcity of resources, but rather in the inefficient information on where to donate said goods.
+ 
 
 # Team TBD Knowledge Base 
 
